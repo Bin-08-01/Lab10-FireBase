@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="firebase_app">FireBase App</string>
+    <string name="insert_data">insert data</string>
+    <string name="fetch_data">fetch data</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="enter_salary">Enter salary</string>
+    <string name="save_data">Save Data</string>
+    <string name="loading_data">Loading Data.....</string>
+    <string name="emp_name">Emp Name</string>
+    <string name="emp_id">Emp id</string>
+    <string name="emp_age">Emp age</string>
+    <string name="emp_salary">Emp salary</string>
+    <string name="update">update</string>
+    <string name="delete">Delete</string>
+</resources>
